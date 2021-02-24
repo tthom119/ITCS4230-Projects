@@ -1,2 +1,2 @@
-This will be for the first game project.
+This will be for 4230 game projects.
 
