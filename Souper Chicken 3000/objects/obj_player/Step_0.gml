@@ -20,9 +20,11 @@ if(climbing){
 }else{
 	if(keyboard_check(ord("A"))){
 		x -= move_speed
+		image_xscale = -1
 	}
 	if(keyboard_check(ord("D"))){
 		x += move_speed
+		image_xscale = 1
 	}
 	if(keyboard_check(ord("W"))){
 		if(instance_place(x, y + 1, obj_block)){
