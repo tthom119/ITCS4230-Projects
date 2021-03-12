@@ -43,3 +43,4 @@ if(climbing){
 		vspeed = 12		
 	}
 }
+x = clamp(x,0, room_width)

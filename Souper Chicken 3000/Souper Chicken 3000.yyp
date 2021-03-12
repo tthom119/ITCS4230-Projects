@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"End","path":"rooms/End/End.yy",},"order":2,},
+    {"id":{"name":"font_gameOver","path":"fonts/font_gameOver/font_gameOver.yy",},"order":0,},
     {"id":{"name":"spr_lives","path":"sprites/spr_lives/spr_lives.yy",},"order":10,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":3,},
     {"id":{"name":"obj_bee","path":"objects/obj_bee/obj_bee.yy",},"order":9,},
@@ -27,11 +29,11 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":8,},
     {"id":{"name":"spr_switch","path":"sprites/spr_switch/spr_switch.yy",},"order":13,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":2,},
-    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":9,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":10,},
     {"id":{"name":"obj_sword","path":"objects/obj_sword/obj_sword.yy",},"order":4,},
     {"id":{"name":"LevelTwo","path":"rooms/LevelTwo/LevelTwo.yy",},"order":1,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":15,},
     {"id":{"name":"LevelOne","path":"rooms/LevelOne/LevelOne.yy",},"order":0,},
   ],
   "Options": [
@@ -50,6 +52,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"LevelOne","path":"rooms/LevelOne/LevelOne.yy",},},
     {"roomId":{"name":"LevelTwo","path":"rooms/LevelTwo/LevelTwo.yy",},},
+    {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
