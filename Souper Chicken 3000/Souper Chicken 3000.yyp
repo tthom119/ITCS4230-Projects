@@ -13,7 +13,9 @@
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":3,},
     {"id":{"name":"obj_death","path":"objects/obj_death/obj_death.yy",},"order":6,},
+    {"id":{"name":"Intro","path":"rooms/Intro/Intro.yy",},"order":4,},
     {"id":{"name":"spr_death","path":"sprites/spr_death/spr_death.yy",},"order":7,},
+    {"id":{"name":"obj_intro","path":"objects/obj_intro/obj_intro.yy",},"order":15,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":0,},
     {"id":{"name":"obj_sign","path":"objects/obj_sign/obj_sign.yy",},"order":5,},
     {"id":{"name":"obj_marker","path":"objects/obj_marker/obj_marker.yy",},"order":3,},
@@ -55,6 +57,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
     {"roomId":{"name":"LevelOne","path":"rooms/LevelOne/LevelOne.yy",},},
     {"roomId":{"name":"LevelTwo","path":"rooms/LevelTwo/LevelTwo.yy",},},
     {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
