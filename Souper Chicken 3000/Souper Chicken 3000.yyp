@@ -1,14 +1,17 @@
 {
   "resources": [
     {"id":{"name":"End","path":"rooms/End/End.yy",},"order":2,},
+    {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":13,},
     {"id":{"name":"font_gameOver","path":"fonts/font_gameOver/font_gameOver.yy",},"order":0,},
     {"id":{"name":"spr_lives","path":"sprites/spr_lives/spr_lives.yy",},"order":10,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":3,},
     {"id":{"name":"obj_bee","path":"objects/obj_bee/obj_bee.yy",},"order":9,},
+    {"id":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},"order":14,},
     {"id":{"name":"spr_bee","path":"sprites/spr_bee/spr_bee.yy",},"order":11,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":1,},
     {"id":{"name":"spr_switchPressed","path":"sprites/spr_switchPressed/spr_switchPressed.yy",},"order":14,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":3,},
     {"id":{"name":"obj_death","path":"objects/obj_death/obj_death.yy",},"order":6,},
     {"id":{"name":"spr_death","path":"sprites/spr_death/spr_death.yy",},"order":7,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":0,},
@@ -26,6 +29,7 @@
     {"id":{"name":"spr_sign","path":"sprites/spr_sign/spr_sign.yy",},"order":6,},
     {"id":{"name":"obj_fastBee","path":"objects/obj_fastBee/obj_fastBee.yy",},"order":11,},
     {"id":{"name":"spr_sword","path":"sprites/spr_sword/spr_sword.yy",},"order":5,},
+    {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},"order":1,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":8,},
     {"id":{"name":"spr_switch","path":"sprites/spr_switch/spr_switch.yy",},"order":13,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":2,},
@@ -50,6 +54,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"LevelOne","path":"rooms/LevelOne/LevelOne.yy",},},
     {"roomId":{"name":"LevelTwo","path":"rooms/LevelTwo/LevelTwo.yy",},},
     {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
