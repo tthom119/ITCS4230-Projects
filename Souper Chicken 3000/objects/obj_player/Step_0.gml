@@ -40,7 +40,7 @@ if(climbing){
 		}		
 	}
 	if(keyboard_check_pressed(vk_space)){
-		instance_create_layer(x, y,"Instances", obj_sword)
+		instance_create_layer(x, y,"Instances", obj_spoon)
 	}
 	if(instance_place(x, y + 1, obj_block)){
 		gravity = 0
