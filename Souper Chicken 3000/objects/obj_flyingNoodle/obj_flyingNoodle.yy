@@ -30,8 +30,6 @@
     {"varType":5,"value":"path_noodles","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[
         "GMPath",
       ],"resourceVersion":"1.0","name":"path_used","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"can_aggro","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":0,"value":"100","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"range","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [
     {"propertyId":{"name":"enemy_speed","path":"objects/obj_noodles/obj_noodles.yy",},"objectId":{"name":"obj_noodles","path":"objects/obj_noodles/obj_noodles.yy",},"value":"-3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
