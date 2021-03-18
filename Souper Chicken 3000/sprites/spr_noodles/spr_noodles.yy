@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f668ed96-8cf8-400e-b4a1-1f486b4212ce","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Enemy_Sprites",
+    "path": "folders/Sprites/Enemy_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_noodles",

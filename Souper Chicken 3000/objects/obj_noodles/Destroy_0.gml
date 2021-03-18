@@ -1,0 +1,1 @@
+audio_play_sound(snd_enemy_kill, 1, false)

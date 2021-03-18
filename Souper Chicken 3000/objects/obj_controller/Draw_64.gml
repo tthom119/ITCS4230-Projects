@@ -1,10 +1,10 @@
 if(room != End){
-	draw_set_colour(c_silver)
-	draw_rectangle(27, 12, 203, 122, false)
 
+	draw_set_colour(c_orange)
+	draw_text(room_width / 2 - 200, 0, "Lives:")
 	for(var i = 0; i < lives; i++){
-		draw_sprite(spr_lives, 0,(30 + 65 * i), 50);
-	}
+		draw_sprite(spr_lives, 0,((room_width / 2 - 100 )+ (i * 70)), 10);
+	} 
 
 	if (global.game_over) {
 		draw_set_colour(c_black)

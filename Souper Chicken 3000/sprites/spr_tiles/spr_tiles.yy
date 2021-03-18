@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"370ce71a-db95-4eef-915c-e3fd3826562f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Background_Sprites",
+    "path": "folders/Sprites/Background_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_tiles",

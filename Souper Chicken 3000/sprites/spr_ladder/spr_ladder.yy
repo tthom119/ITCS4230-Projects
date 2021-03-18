@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"287a9e6d-a259-4565-a6d9-4c993cd37785","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Block_Sprites",
+    "path": "folders/Sprites/Block_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_ladder",

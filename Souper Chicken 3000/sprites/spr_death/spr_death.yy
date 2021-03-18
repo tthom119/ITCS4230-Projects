@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"38b650f1-6ee7-47ad-9266-0ef3f15012e0","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Block_Sprites",
+    "path": "folders/Sprites/Block_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_death",

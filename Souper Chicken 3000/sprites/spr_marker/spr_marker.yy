@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c8cff96c-18f9-45e1-9f81-0e5e67ce0ed2","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Block_Sprites",
+    "path": "folders/Sprites/Block_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_marker",

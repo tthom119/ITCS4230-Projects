@@ -14,14 +14,14 @@ if(climbing){
 	if(keyboard_check(ord("S"))){
 		vspeed = climb_speed
 	}
-/*	if(keyboard_check(ord("A"))){
+	if(keyboard_check(ord("A"))){
 		x -= climb_speed
 		image_xscale = -1
 	}
 	if(keyboard_check(ord("D"))){
 		x += climb_speed
 		image_xscale = 1
-	} */
+	} 
 	if(instance_place(x,y + 1,obj_block)){
 	climbing = false
 	}

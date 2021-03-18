@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"55618dc8-d1fe-42ad-bf34-9b1b87acb9d8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player_Sprites",
+    "path": "folders/Sprites/Player_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_lives",

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"653f7231-1b0d-4fb0-a75b-c59af0795ce9","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Item_Sprites",
+    "path": "folders/Sprites/Item_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_switch",

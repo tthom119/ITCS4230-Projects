@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"709fb95d-5614-4e5d-b4ba-5d59fdc79da6","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Enemy_Sprites",
+    "path": "folders/Sprites/Enemy_Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_flyingNoodle",
