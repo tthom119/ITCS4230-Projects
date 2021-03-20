@@ -21,7 +21,11 @@ if(room == Intro){
 }
 if(room == End){
 	draw_set_colour(c_yellow)
-	draw_text(room_width / 2, room_height / 2 - 300, "Congratulations! You made it to the end!")
-	draw_text(room_width / 2, room_height / 2, "Thank you for playing!")
+	draw_text(room_width / 2, room_height / 2 - 300, "Congratulations! You are one tough chicken cube!")
+	draw_text(room_width / 2, room_height / 2 - 200, "Obstacles were thrown at you,")
+	draw_text(room_width / 2, room_height / 2 - 100, "but you and your trusty spoon made it through.")
+	draw_text(room_width / 2, room_height / 2, "Unlike those who have tragically fallen before you, ")
+	draw_text(room_width / 2, room_height / 2 + 100, "you are not soup.")
+	draw_text(room_width / 2, room_height / 2 + 300, "Thank you for playing!")
 }
 

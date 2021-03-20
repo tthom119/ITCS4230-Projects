@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ee75b110-426a-4497-a522-dacb3741bc55","path":"sprites/spr_game_background/spr_game_background.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee75b110-426a-4497-a522-dacb3741bc55","path":"sprites/spr_game_background/spr_game_background.yy",},"LayerId":{"name":"a6d6bc34-cbcc-44a6-9f9f-a5b3ddc9e88c","path":"sprites/spr_game_background/spr_game_background.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_game_background","path":"sprites/spr_game_background/spr_game_background.yy",},"resourceVersion":"1.0","name":"ee75b110-426a-4497-a522-dacb3741bc55","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"467d4dcb-90ef-4bd3-852e-37d9e7460c67","path":"sprites/spr_game_background/spr_game_background.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"467d4dcb-90ef-4bd3-852e-37d9e7460c67","path":"sprites/spr_game_background/spr_game_background.yy",},"LayerId":{"name":"d86ac355-21bb-4a01-8c08-6cbd6f3227c8","path":"sprites/spr_game_background/spr_game_background.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_game_background","path":"sprites/spr_game_background/spr_game_background.yy",},"resourceVersion":"1.0","name":"467d4dcb-90ef-4bd3-852e-37d9e7460c67","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_game_background","path":"sprites/spr_game_background/spr_game_background.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"5099c3d1-d398-4066-a988-33f368ff649f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee75b110-426a-4497-a522-dacb3741bc55","path":"sprites/spr_game_background/spr_game_background.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b94398a0-d7bc-435a-81e3-1be7f26e0f43","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"467d4dcb-90ef-4bd3-852e-37d9e7460c67","path":"sprites/spr_game_background/spr_game_background.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a6d6bc34-cbcc-44a6-9f9f-a5b3ddc9e88c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d86ac355-21bb-4a01-8c08-6cbd6f3227c8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Background_Sprites",
